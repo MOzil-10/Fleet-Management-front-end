@@ -30,7 +30,7 @@ npm install -g @angular/cli
 
 1. **Clone the repository:**
    ```bash
-   git clone project url
+   git clone [project url](https://github.com/MOzil-10/Fleet-Management-front-end.git)
    cd fleet-management-front-end
    ```
 
