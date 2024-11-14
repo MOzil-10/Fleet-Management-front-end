@@ -1,0 +1,19 @@
+
+.navbar {
+  z-index: 9999;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.map-container {
+  margin-top: 60px;
+  position: relative;
+}
+
+.modal-dialog {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh
+}
